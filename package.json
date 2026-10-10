@@ -1,0 +1,15 @@
+{
+  "name": "desplegando-js",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Angel Moza Cabanillas <angel.moza@tecsup.edu.pe>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "nodemon index.js",
+    "start": "node index.js"
+  },
+  "devDependencies": {
+    "dotenv": "^18.0.7",
+    "nodemon": "^3.1.14"
+  }
+}
